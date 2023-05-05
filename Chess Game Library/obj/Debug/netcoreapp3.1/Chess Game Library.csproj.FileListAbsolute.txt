@@ -1,0 +1,17 @@
+C:\Personal Projects\Chess Game Library\Chess Game Library\bin\Debug\netcoreapp3.1\Chess Game Library.exe
+C:\Personal Projects\Chess Game Library\Chess Game Library\bin\Debug\netcoreapp3.1\Chess Game Library.deps.json
+C:\Personal Projects\Chess Game Library\Chess Game Library\bin\Debug\netcoreapp3.1\Chess Game Library.runtimeconfig.json
+C:\Personal Projects\Chess Game Library\Chess Game Library\bin\Debug\netcoreapp3.1\Chess Game Library.runtimeconfig.dev.json
+C:\Personal Projects\Chess Game Library\Chess Game Library\bin\Debug\netcoreapp3.1\Chess Game Library.dll
+C:\Personal Projects\Chess Game Library\Chess Game Library\bin\Debug\netcoreapp3.1\Chess Game Library.pdb
+C:\Personal Projects\Chess Game Library\Chess Game Library\obj\Debug\netcoreapp3.1\Chess Game Library.csproj.AssemblyReference.cache
+C:\Personal Projects\Chess Game Library\Chess Game Library\obj\Debug\netcoreapp3.1\Chess_Game_Library.Form1.resources
+C:\Personal Projects\Chess Game Library\Chess Game Library\obj\Debug\netcoreapp3.1\Chess Game Library.csproj.GenerateResource.cache
+C:\Personal Projects\Chess Game Library\Chess Game Library\obj\Debug\netcoreapp3.1\Chess Game Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Personal Projects\Chess Game Library\Chess Game Library\obj\Debug\netcoreapp3.1\Chess Game Library.AssemblyInfoInputs.cache
+C:\Personal Projects\Chess Game Library\Chess Game Library\obj\Debug\netcoreapp3.1\Chess Game Library.AssemblyInfo.cs
+C:\Personal Projects\Chess Game Library\Chess Game Library\obj\Debug\netcoreapp3.1\Chess Game Library.csproj.CoreCompileInputs.cache
+C:\Personal Projects\Chess Game Library\Chess Game Library\obj\Debug\netcoreapp3.1\Chess Game Library.dll
+C:\Personal Projects\Chess Game Library\Chess Game Library\obj\Debug\netcoreapp3.1\Chess Game Library.pdb
+C:\Personal Projects\Chess Game Library\Chess Game Library\obj\Debug\netcoreapp3.1\Chess Game Library.genruntimeconfig.cache
+C:\Personal Projects\Chess Game Library\Chess Game Library\obj\Debug\netcoreapp3.1\Chess_Game_Library.Promotion_Form.resources
